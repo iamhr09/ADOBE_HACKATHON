@@ -39,6 +39,7 @@ It focuses on:
     }
   ]
 }
+```
 
 
 ## **Project Structure**
