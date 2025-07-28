@@ -1,0 +1,50 @@
+{
+    "advance java unit 1 for final exam.pdf": {
+        "persona": "Researcher",
+        "job": "Literature revies",
+        "summary": "Agar chaho to main code example ke saath bhi servlet lifecycle explain kar sakta hoon. Let me know! 32/32",
+        "used_structure": false
+    },
+    "DA_Unit-3.pdf": {
+        "persona": "Researcher",
+        "job": "Literature revies",
+        "summary": "Summary: DA_Unit-3.pdf",
+        "used_structure": false
+    },
+    "DA_Unit-4.pdf": {
+        "persona": "Researcher",
+        "job": "Literature revies",
+        "summary": "Summary: Data munging is the complete toolkit for making data analysis-ready. Data munging is the process of transforming raw, unstructured data into a clean, usable format for analysis.",
+        "used_structure": false
+    },
+    "sample_ai_document.pdf": {
+        "persona": "Researcher",
+        "job": "Literature revies",
+        "summary": "Summary: Artificial Intelligence is a broad branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence.",
+        "used_structure": false
+    },
+    "testt.pdf": {
+        "persona": "Researcher",
+        "job": "Literature revies",
+        "summary": "A book on sulphuric acid, nitric acid and oxides of copper, tin and zinc.",
+        "used_structure": false
+    },
+    "Unit 1- Introduction to Nodejs.pdf": {
+        "persona": "Researcher",
+        "job": "Literature revies",
+        "summary": "Summary: GraphQL is a query language and server-side runtime for application programming interfaces that prioritizes giving clients exactly the data they request and no more.",
+        "used_structure": false
+    },
+    "Unit 3- Basics of Angular js.pdf": {
+        "persona": "Researcher",
+        "job": "Literature revies",
+        "summary": "Summary: TypeScript interface is an interface between specification and implementation. [Page Content Ends]",
+        "used_structure": false
+    },
+    "Unit 4- Building Single Page App with Angular js.pdf": {
+        "persona": "Researcher",
+        "job": "Literature revies",
+        "summary": "Summary: AngularJS is an In-Built AngularJS directive widely used in the HTML view to loop through the List of contents containing Objects on UI and utilizes or display any particular object attribute objects of each element in HTML page along with styling in an ANGULARJS application [Page Content Ends]",
+        "used_structure": false
+    }
+}
