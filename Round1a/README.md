@@ -29,7 +29,7 @@ It detects:
     { "level": "H3", "text": "History of AI", "page": 3 }
   ]
 }
-
+```
 
 ## **Project Structure**
 adobe-hackathon-round1a/
