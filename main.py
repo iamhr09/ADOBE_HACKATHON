@@ -97,7 +97,7 @@ def main():
         if use_structure:
             print("📑 Structure info extracted:")
             print("Title:", structure_data["title"])
-            for h in structure_data["headings"]:
+            for h in structure_data["outline"]:
                 print(f"{h['level']} - {h['text']} (Page {h['page']})")
         
         summary = summarize_document(
